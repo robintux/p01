@@ -1,0 +1,25 @@
+# Primeros pasos en el uso de git 
+
+# Luego de descargar el archivo de  : https://git-scm.com/
+
+# Procedimos con la instalacion del program GIT : Dejando todas las opciones por defecto.
+
+1. Creacion de un repositorio local : Rutinas de configuracion
+
+Ejecutar en git bash :
+
+git config --global user.name "Tu Nombre"
+
+git config --global user.email "abraham.zamudio@gmail.com"
+
+2. Inicializacion de nuestro repositorio git local 
+
+git init
+
+3. Añadimos archivos al repositorio local 
+
+git add . 
+
+Recordar que siempre puedo usar : 
+
+git status
