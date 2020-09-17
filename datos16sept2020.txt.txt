@@ -23,3 +23,10 @@ git add .
 Recordar que siempre puedo usar : 
 
 git status
+
+
+#########
+
+Par agregar todos los cambios al repositorio local usamos :
+
+git commit -a
